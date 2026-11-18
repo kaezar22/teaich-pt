@@ -1,0 +1,2593 @@
+{
+ "portugues_vocabulario": [
+  [
+   "Português 1",
+   1,
+   "olá",
+   "hola",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "oi",
+   "hola (informal)",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "bom dia",
+   "buenos días",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "boa tarde",
+   "buenas tardes",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "boa noite",
+   "buenas noches",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "tchau",
+   "chao",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "até logo",
+   "hasta luego",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "tudo bem?",
+   "¿todo bien? / ¿cómo estás?",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "obrigado",
+   "gracias (lo dice un hombre)",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "obrigada",
+   "gracias (lo dice una mujer)",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "por favor",
+   "por favor",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "desculpa",
+   "perdón / disculpa",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "de nada",
+   "de nada",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "prazer",
+   "mucho gusto",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "chamar-se",
+   "llamarse",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   1,
+   "nome",
+   "nombre",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "ser",
+   "ser",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   1,
+   "falar",
+   "hablar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   1,
+   "morar",
+   "vivir (residir)",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   1,
+   "português",
+   "portugués",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "espanhol",
+   "español",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "colombiano",
+   "colombiano",
+   "adj."
+  ],
+  [
+   "Português 1",
+   1,
+   "colombiana",
+   "colombiana",
+   "adj."
+  ],
+  [
+   "Português 1",
+   1,
+   "brasileiro",
+   "brasileño",
+   "adj."
+  ],
+  [
+   "Português 1",
+   1,
+   "brasileira",
+   "brasileña",
+   "adj."
+  ],
+  [
+   "Português 1",
+   1,
+   "de onde",
+   "de dónde",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "professor",
+   "profesor",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "professora",
+   "profesora",
+   "f."
+  ],
+  [
+   "Português 1",
+   1,
+   "aluno",
+   "estudiante (hombre)",
+   "m."
+  ],
+  [
+   "Português 1",
+   1,
+   "aluna",
+   "estudiante (mujer)",
+   "f."
+  ],
+  [
+   "Português 1",
+   1,
+   "um pouco",
+   "un poco",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   1,
+   "inglês",
+   "inglés",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "família",
+   "familia",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "pai",
+   "papá / padre",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "mãe",
+   "mamá / madre",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "pais",
+   "papás (padre y madre)",
+   "m. pl."
+  ],
+  [
+   "Português 1",
+   2,
+   "filho",
+   "hijo",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "filha",
+   "hija",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "irmão",
+   "hermano",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "irmã",
+   "hermana",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "avô",
+   "abuelo",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "avó",
+   "abuela",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "marido",
+   "esposo",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "esposa",
+   "esposa",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "namorado",
+   "novio",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "namorada",
+   "novia",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "amigo",
+   "amigo",
+   "m."
+  ],
+  [
+   "Português 1",
+   2,
+   "amiga",
+   "amiga",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "criança",
+   "niño / niña",
+   "f."
+  ],
+  [
+   "Português 1",
+   2,
+   "ter",
+   "tener",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   2,
+   "anos",
+   "años",
+   "m. pl."
+  ],
+  [
+   "Português 1",
+   2,
+   "quantos",
+   "cuántos",
+   "adv."
+  ],
+  [
+   "Português 1",
+   2,
+   "casado",
+   "casado",
+   "adj."
+  ],
+  [
+   "Português 1",
+   2,
+   "solteiro",
+   "soltero",
+   "adj."
+  ],
+  [
+   "Português 1",
+   2,
+   "onze",
+   "once",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "doze",
+   "doce",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "quinze",
+   "quince",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "vinte",
+   "veinte",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "trinta",
+   "treinta",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "cinquenta",
+   "cincuenta",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "cem",
+   "cien",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "oitenta",
+   "ochenta",
+   "número"
+  ],
+  [
+   "Português 1",
+   2,
+   "melhor",
+   "mejor",
+   "adj."
+  ],
+  [
+   "Português 1",
+   3,
+   "acordar",
+   "despertarse",
+   "verbo, falso cognato (no es «acordar»)"
+  ],
+  [
+   "Português 1",
+   3,
+   "levantar-se",
+   "levantarse",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "tomar banho",
+   "bañarse / ducharse",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   3,
+   "tomar café da manhã",
+   "desayunar",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   3,
+   "almoçar",
+   "almorzar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "jantar",
+   "cenar / la cena",
+   "verbo, m."
+  ],
+  [
+   "Português 1",
+   3,
+   "trabalhar",
+   "trabajar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "estudar",
+   "estudiar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "dormir",
+   "dormir",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "voltar",
+   "volver",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   3,
+   "hora",
+   "hora",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "que horas são?",
+   "¿qué hora es?",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   3,
+   "cedo",
+   "temprano",
+   "adv."
+  ],
+  [
+   "Português 1",
+   3,
+   "tarde",
+   "tarde",
+   "adv., f."
+  ],
+  [
+   "Português 1",
+   3,
+   "sempre",
+   "siempre",
+   "adv."
+  ],
+  [
+   "Português 1",
+   3,
+   "nunca",
+   "nunca",
+   "adv."
+  ],
+  [
+   "Português 1",
+   3,
+   "às vezes",
+   "a veces",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   3,
+   "todo dia",
+   "todos los días",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   3,
+   "hoje",
+   "hoy",
+   "adv."
+  ],
+  [
+   "Português 1",
+   3,
+   "amanhã",
+   "mañana",
+   "adv."
+  ],
+  [
+   "Português 1",
+   3,
+   "segunda-feira",
+   "lunes",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "terça-feira",
+   "martes",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "quarta-feira",
+   "miércoles",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "quinta-feira",
+   "jueves",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "sexta-feira",
+   "viernes",
+   "f."
+  ],
+  [
+   "Português 1",
+   3,
+   "sábado",
+   "sábado",
+   "m."
+  ],
+  [
+   "Português 1",
+   3,
+   "domingo",
+   "domingo",
+   "m."
+  ],
+  [
+   "Português 1",
+   3,
+   "fim de semana",
+   "fin de semana",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "comida",
+   "comida",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "água",
+   "agua",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "café",
+   "café",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "suco",
+   "jugo",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "leite",
+   "leche",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "pão",
+   "pan",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "queijo",
+   "queso",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "presunto",
+   "jamón",
+   "m., falso cognato (no es «presunto»)"
+  ],
+  [
+   "Português 1",
+   4,
+   "arroz",
+   "arroz",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "feijão",
+   "fríjol",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "carne",
+   "carne",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "frango",
+   "pollo",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "peixe",
+   "pescado",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "fruta",
+   "fruta",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "salada",
+   "ensalada",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "sobremesa",
+   "postre",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "restaurante",
+   "restaurante",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "garçom",
+   "mesero",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "cardápio",
+   "menú / carta",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "conta",
+   "cuenta",
+   "f."
+  ],
+  [
+   "Português 1",
+   4,
+   "copo",
+   "vaso",
+   "m., falso cognato"
+  ],
+  [
+   "Português 1",
+   4,
+   "prato",
+   "plato",
+   "m."
+  ],
+  [
+   "Português 1",
+   4,
+   "comer",
+   "comer",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   4,
+   "beber",
+   "beber / tomar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   4,
+   "querer",
+   "querer",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   4,
+   "gostar de",
+   "gustar (me gusta = eu gosto de)",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   4,
+   "gostoso",
+   "rico / delicioso",
+   "adj."
+  ],
+  [
+   "Português 1",
+   4,
+   "com fome",
+   "con hambre",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "cidade",
+   "ciudad",
+   "f."
+  ],
+  [
+   "Português 1",
+   5,
+   "bairro",
+   "barrio",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "rua",
+   "calle",
+   "f."
+  ],
+  [
+   "Português 1",
+   5,
+   "casa",
+   "casa",
+   "f."
+  ],
+  [
+   "Português 1",
+   5,
+   "apartamento",
+   "apartamento",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "centro",
+   "centro",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "praia",
+   "playa",
+   "f."
+  ],
+  [
+   "Português 1",
+   5,
+   "supermercado",
+   "supermercado",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "farmácia",
+   "farmacia",
+   "f."
+  ],
+  [
+   "Português 1",
+   5,
+   "banco",
+   "banco",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "hospital",
+   "hospital",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "ônibus",
+   "bus",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "metrô",
+   "metro",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "carro",
+   "carro",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "táxi",
+   "taxi",
+   "m."
+  ],
+  [
+   "Português 1",
+   5,
+   "a pé",
+   "a pie",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "ir",
+   "ir",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   5,
+   "chegar",
+   "llegar",
+   "verbo"
+  ],
+  [
+   "Português 1",
+   5,
+   "pegar",
+   "tomar (un bus) / agarrar",
+   "verbo, falso cognato (no es «pegar»)"
+  ],
+  [
+   "Português 1",
+   5,
+   "perto",
+   "cerca",
+   "adv."
+  ],
+  [
+   "Português 1",
+   5,
+   "longe",
+   "lejos",
+   "adv."
+  ],
+  [
+   "Português 1",
+   5,
+   "à direita",
+   "a la derecha",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "à esquerda",
+   "a la izquierda",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "em frente",
+   "al frente / derecho",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "onde fica?",
+   "¿dónde queda?",
+   "expresión"
+  ],
+  [
+   "Português 1",
+   5,
+   "esquina",
+   "esquina",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "loja",
+   "tienda",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "roupa",
+   "ropa",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "camisa",
+   "camisa",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "camiseta",
+   "camiseta",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "calça",
+   "pantalón",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "saia",
+   "falda",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "vestido",
+   "vestido",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "sapato",
+   "zapato",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "tênis",
+   "tenis (zapatos)",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "tamanho",
+   "talla",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "cor",
+   "color",
+   "f."
+  ],
+  [
+   "Português 2",
+   1,
+   "vermelho",
+   "rojo",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "azul",
+   "azul",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "verde",
+   "verde",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "amarelo",
+   "amarillo",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "preto",
+   "negro",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "branco",
+   "blanco",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "caro",
+   "caro",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "barato",
+   "barato",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "quanto custa?",
+   "¿cuánto cuesta?",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   1,
+   "pagar",
+   "pagar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   1,
+   "cartão",
+   "tarjeta",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "dinheiro",
+   "dinero / efectivo",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "comprar",
+   "comprar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   1,
+   "experimentar",
+   "probarse (ropa)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   1,
+   "largo",
+   "ancho",
+   "adj., falso cognato (no es «largo»)"
+  ],
+  [
+   "Português 2",
+   1,
+   "comprido",
+   "largo",
+   "adj."
+  ],
+  [
+   "Português 2",
+   1,
+   "provador",
+   "probador",
+   "m."
+  ],
+  [
+   "Português 2",
+   1,
+   "poder",
+   "poder (posso = puedo)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   1,
+   "usar",
+   "usar / llevar puesto",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   1,
+   "bonito",
+   "bonito",
+   "adj."
+  ],
+  [
+   "Português 2",
+   2,
+   "ontem",
+   "ayer",
+   "adv."
+  ],
+  [
+   "Português 2",
+   2,
+   "anteontem",
+   "anteayer",
+   "adv."
+  ],
+  [
+   "Português 2",
+   2,
+   "semana passada",
+   "la semana pasada",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   2,
+   "sábado passado",
+   "el sábado pasado",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   2,
+   "fui",
+   "fui (ir/ser)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "foi",
+   "fue (ir/ser)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "fiz",
+   "hice",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "fez",
+   "hizo",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "tive",
+   "tuve",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "viajar",
+   "viajar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "visitar",
+   "visitar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "passear",
+   "pasear",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "sair",
+   "salir",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "assistir",
+   "ver (películas, series)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "encontrar",
+   "encontrar / encontrarse con",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "festa",
+   "fiesta",
+   "f."
+  ],
+  [
+   "Português 2",
+   2,
+   "cinema",
+   "cine",
+   "m."
+  ],
+  [
+   "Português 2",
+   2,
+   "filme",
+   "película",
+   "m."
+  ],
+  [
+   "Português 2",
+   2,
+   "show",
+   "concierto",
+   "m."
+  ],
+  [
+   "Português 2",
+   2,
+   "divertido",
+   "divertido",
+   "adj."
+  ],
+  [
+   "Português 2",
+   2,
+   "cansado",
+   "cansado",
+   "adj."
+  ],
+  [
+   "Português 2",
+   2,
+   "ótimo",
+   "excelente",
+   "adj."
+  ],
+  [
+   "Português 2",
+   2,
+   "legal",
+   "chévere / bacano",
+   "adj."
+  ],
+  [
+   "Português 2",
+   2,
+   "a gente",
+   "nosotros (informal)",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   2,
+   "ficar",
+   "quedarse",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   2,
+   "difícil",
+   "difícil",
+   "adj."
+  ],
+  [
+   "Português 2",
+   3,
+   "saúde",
+   "salud",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "corpo",
+   "cuerpo",
+   "m."
+  ],
+  [
+   "Português 2",
+   3,
+   "cabeça",
+   "cabeza",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "olho",
+   "ojo",
+   "m."
+  ],
+  [
+   "Português 2",
+   3,
+   "boca",
+   "boca",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "garganta",
+   "garganta",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "braço",
+   "brazo",
+   "m."
+  ],
+  [
+   "Português 2",
+   3,
+   "perna",
+   "pierna",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "barriga",
+   "barriga / estómago",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "costas",
+   "espalda",
+   "f. pl."
+  ],
+  [
+   "Português 2",
+   3,
+   "dor",
+   "dolor",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "dor de cabeça",
+   "dolor de cabeza",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   3,
+   "febre",
+   "fiebre",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "gripe",
+   "gripa",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "médico",
+   "médico",
+   "m."
+  ],
+  [
+   "Português 2",
+   3,
+   "consulta",
+   "cita médica",
+   "f."
+  ],
+  [
+   "Português 2",
+   3,
+   "remédio",
+   "medicina / remedio",
+   "m."
+  ],
+  [
+   "Português 2",
+   3,
+   "doente",
+   "enfermo",
+   "adj."
+  ],
+  [
+   "Português 2",
+   3,
+   "sentir-se",
+   "sentirse",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   3,
+   "melhorar",
+   "mejorar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   3,
+   "descansar",
+   "descansar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   3,
+   "estar com frio",
+   "tener frío",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   3,
+   "estar com sede",
+   "tener sed",
+   "expresión"
+  ],
+  [
+   "Português 2",
+   3,
+   "grávida",
+   "embarazada",
+   "adj."
+  ],
+  [
+   "Português 2",
+   3,
+   "embaraçada",
+   "avergonzada",
+   "adj., falso cognato (no es «embarazada»)"
+  ],
+  [
+   "Português 2",
+   3,
+   "achar",
+   "creer / pensar (eu acho que…)",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   3,
+   "doer",
+   "doler",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   4,
+   "trabalho",
+   "trabajo",
+   "m."
+  ],
+  [
+   "Português 2",
+   4,
+   "emprego",
+   "empleo",
+   "m."
+  ],
+  [
+   "Português 2",
+   4,
+   "empresa",
+   "empresa",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "escritório",
+   "oficina (lugar de trabajo)",
+   "m., falso cognato"
+  ],
+  [
+   "Português 2",
+   4,
+   "oficina",
+   "taller (de carros)",
+   "f., falso cognato"
+  ],
+  [
+   "Português 2",
+   4,
+   "chefe",
+   "jefe",
+   "m./f."
+  ],
+  [
+   "Português 2",
+   4,
+   "colega",
+   "colega / compañero",
+   "m./f."
+  ],
+  [
+   "Português 2",
+   4,
+   "reunião",
+   "reunión",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "salário",
+   "salario / sueldo",
+   "m."
+  ],
+  [
+   "Português 2",
+   4,
+   "profissão",
+   "profesión",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "engenheiro",
+   "ingeniero",
+   "m."
+  ],
+  [
+   "Português 2",
+   4,
+   "advogado",
+   "abogado",
+   "m."
+  ],
+  [
+   "Português 2",
+   4,
+   "médica",
+   "médica",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "universidade",
+   "universidad",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "faculdade",
+   "universidad / carrera",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "aula",
+   "clase",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "prova",
+   "examen",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "entrevista",
+   "entrevista",
+   "f."
+  ],
+  [
+   "Português 2",
+   4,
+   "precisar de",
+   "necesitar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   4,
+   "procurar",
+   "buscar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   4,
+   "ganhar",
+   "ganar",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   4,
+   "férias",
+   "vacaciones",
+   "f. pl."
+  ],
+  [
+   "Português 2",
+   5,
+   "viagem",
+   "viaje",
+   "f."
+  ],
+  [
+   "Português 2",
+   5,
+   "passagem",
+   "pasaje / tiquete",
+   "f."
+  ],
+  [
+   "Português 2",
+   5,
+   "aeroporto",
+   "aeropuerto",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "voo",
+   "vuelo",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "hotel",
+   "hotel",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "quarto",
+   "habitación / cuarto",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "reserva",
+   "reserva",
+   "f."
+  ],
+  [
+   "Português 2",
+   5,
+   "mala",
+   "maleta",
+   "f., falso cognato (no es «mala»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "passaporte",
+   "pasaporte",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "tempo",
+   "tiempo / clima",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "calor",
+   "calor",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "chuva",
+   "lluvia",
+   "f."
+  ],
+  [
+   "Português 2",
+   5,
+   "sol",
+   "sol",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "esquisito",
+   "raro",
+   "adj., falso cognato (no es «exquisito»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "polvo",
+   "pulpo",
+   "m., falso cognato (no es «polvo»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "borracha",
+   "borrador (de lápiz)",
+   "f., falso cognato (no es «borracha»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "apelido",
+   "apodo",
+   "m., falso cognato (no es «apellido»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "sobrenome",
+   "apellido",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "rato",
+   "ratón",
+   "m., falso cognato (no es «rato»)"
+  ],
+  [
+   "Português 2",
+   5,
+   "ainda",
+   "todavía",
+   "adv."
+  ],
+  [
+   "Português 2",
+   5,
+   "já",
+   "ya",
+   "adv."
+  ],
+  [
+   "Português 2",
+   5,
+   "chover",
+   "llover",
+   "verbo"
+  ],
+  [
+   "Português 2",
+   5,
+   "guarda-chuva",
+   "paraguas",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "mar",
+   "mar",
+   "m."
+  ],
+  [
+   "Português 2",
+   5,
+   "conhecer",
+   "conocer",
+   "verbo"
+  ]
+ ],
+ "portugues_frases": [
+  [
+   "Português 1",
+   1,
+   "Oi! Tudo bem?"
+  ],
+  [
+   "Português 1",
+   1,
+   "Tudo bem, obrigada. E você?"
+  ],
+  [
+   "Português 1",
+   1,
+   "Bom dia, professora!"
+  ],
+  [
+   "Português 1",
+   1,
+   "Meu nome é Ana. Qual é o seu nome?"
+  ],
+  [
+   "Português 1",
+   1,
+   "Eu me chamo Carlos. Muito prazer!"
+  ],
+  [
+   "Português 1",
+   1,
+   "Eu sou colombiana, de Bogotá."
+  ],
+  [
+   "Português 1",
+   1,
+   "De onde você é?"
+  ],
+  [
+   "Português 1",
+   1,
+   "Eu sou brasileiro, do Rio de Janeiro."
+  ],
+  [
+   "Português 1",
+   1,
+   "Você fala português?"
+  ],
+  [
+   "Português 1",
+   1,
+   "Eu falo espanhol e um pouco de português."
+  ],
+  [
+   "Português 1",
+   1,
+   "Onde você mora? Eu moro em Medellín."
+  ],
+  [
+   "Português 1",
+   1,
+   "Ela não é professora, ela é aluna."
+  ],
+  [
+   "Português 1",
+   1,
+   "Desculpa, não falo inglês."
+  ],
+  [
+   "Português 1",
+   1,
+   "Obrigado! — De nada."
+  ],
+  [
+   "Português 1",
+   1,
+   "Tchau, até logo!"
+  ],
+  [
+   "Português 1",
+   2,
+   "Esta é a minha família."
+  ],
+  [
+   "Português 1",
+   2,
+   "O meu pai se chama Jorge e a minha mãe se chama Luz."
+  ],
+  [
+   "Português 1",
+   2,
+   "Eu tenho dois irmãos e uma irmã."
+  ],
+  [
+   "Português 1",
+   2,
+   "Quantos anos você tem?"
+  ],
+  [
+   "Português 1",
+   2,
+   "Eu tenho vinte e cinco anos."
+  ],
+  [
+   "Português 1",
+   2,
+   "A minha avó tem oitenta anos."
+  ],
+  [
+   "Português 1",
+   2,
+   "Você é casado? Não, eu sou solteiro."
+  ],
+  [
+   "Português 1",
+   2,
+   "Ela tem um namorado brasileiro."
+  ],
+  [
+   "Português 1",
+   2,
+   "O meu irmão não tem filhos."
+  ],
+  [
+   "Português 1",
+   2,
+   "A Maria é a minha melhor amiga."
+  ],
+  [
+   "Português 1",
+   2,
+   "Quantos irmãos você tem?"
+  ],
+  [
+   "Português 1",
+   2,
+   "A minha filha tem quinze anos."
+  ],
+  [
+   "Português 1",
+   2,
+   "Os meus pais moram em Cali."
+  ],
+  [
+   "Português 1",
+   3,
+   "Que horas são? São sete horas."
+  ],
+  [
+   "Português 1",
+   3,
+   "Eu acordo às seis da manhã."
+  ],
+  [
+   "Português 1",
+   3,
+   "Eu tomo banho e tomo café da manhã."
+  ],
+  [
+   "Português 1",
+   3,
+   "Eu trabalho de segunda a sexta-feira."
+  ],
+  [
+   "Português 1",
+   3,
+   "Você almoça em casa ou no trabalho?"
+  ],
+  [
+   "Português 1",
+   3,
+   "Eu sempre janto às oito da noite."
+  ],
+  [
+   "Português 1",
+   3,
+   "Ela estuda português às terças e quintas."
+  ],
+  [
+   "Português 1",
+   3,
+   "Hoje é sábado! Eu não trabalho."
+  ],
+  [
+   "Português 1",
+   3,
+   "No fim de semana eu durmo até tarde."
+  ],
+  [
+   "Português 1",
+   3,
+   "Às vezes eu volto para casa muito tarde."
+  ],
+  [
+   "Português 1",
+   3,
+   "Amanhã eu vou acordar cedo."
+  ],
+  [
+   "Português 1",
+   3,
+   "A que horas você vai dormir?"
+  ],
+  [
+   "Português 1",
+   3,
+   "Nós nunca estudamos no domingo."
+  ],
+  [
+   "Português 1",
+   4,
+   "Eu estou com fome!"
+  ],
+  [
+   "Português 1",
+   4,
+   "O que você quer comer?"
+  ],
+  [
+   "Português 1",
+   4,
+   "Eu quero arroz, feijão e frango, por favor."
+  ],
+  [
+   "Português 1",
+   4,
+   "Você gosta de peixe? Não, eu não gosto de peixe."
+  ],
+  [
+   "Português 1",
+   4,
+   "Um copo de água, por favor."
+  ],
+  [
+   "Português 1",
+   4,
+   "O garçom traz o cardápio."
+  ],
+  [
+   "Português 1",
+   4,
+   "Eu gosto muito de pão com queijo."
+  ],
+  [
+   "Português 1",
+   4,
+   "Ela não bebe café, ela bebe suco."
+  ],
+  [
+   "Português 1",
+   4,
+   "A comida brasileira é muito gostosa."
+  ],
+  [
+   "Português 1",
+   4,
+   "Você quer uma sobremesa?"
+  ],
+  [
+   "Português 1",
+   4,
+   "A conta, por favor!"
+  ],
+  [
+   "Português 1",
+   4,
+   "Nós almoçamos no restaurante todo dia."
+  ],
+  [
+   "Português 1",
+   4,
+   "O presunto é para o café da manhã."
+  ],
+  [
+   "Português 1",
+   5,
+   "Onde fica a farmácia?"
+  ],
+  [
+   "Português 1",
+   5,
+   "A farmácia fica perto do banco."
+  ],
+  [
+   "Português 1",
+   5,
+   "Eu moro num apartamento no centro."
+  ],
+  [
+   "Português 1",
+   5,
+   "O supermercado fica longe da minha casa."
+  ],
+  [
+   "Português 1",
+   5,
+   "Eu vou para o trabalho de ônibus."
+  ],
+  [
+   "Português 1",
+   5,
+   "Você pega o metrô ou vai a pé?"
+  ],
+  [
+   "Português 1",
+   5,
+   "Vire à direita na esquina."
+  ],
+  [
+   "Português 1",
+   5,
+   "O hospital fica em frente à praia."
+  ],
+  [
+   "Português 1",
+   5,
+   "Como eu chego no centro?"
+  ],
+  [
+   "Português 1",
+   5,
+   "Nós vamos de carro para a praia."
+  ],
+  [
+   "Português 1",
+   5,
+   "A rua da minha casa é muito tranquila."
+  ],
+  [
+   "Português 1",
+   5,
+   "O meu bairro tem um supermercado e uma farmácia."
+  ],
+  [
+   "Português 2",
+   1,
+   "Quanto custa esta camisa?"
+  ],
+  [
+   "Português 2",
+   1,
+   "Esta calça é muito cara!"
+  ],
+  [
+   "Português 2",
+   1,
+   "Posso experimentar este vestido?"
+  ],
+  [
+   "Português 2",
+   1,
+   "O provador fica ali, à esquerda."
+  ],
+  [
+   "Português 2",
+   1,
+   "Que tamanho você usa? Eu uso M."
+  ],
+  [
+   "Português 2",
+   1,
+   "Você tem esta saia em azul?"
+  ],
+  [
+   "Português 2",
+   1,
+   "Eu quero um tênis branco."
+  ],
+  [
+   "Português 2",
+   1,
+   "Esta camiseta está larga. Você tem um tamanho menor?"
+  ],
+  [
+   "Português 2",
+   1,
+   "Posso pagar com cartão?"
+  ],
+  [
+   "Português 2",
+   1,
+   "Não tenho dinheiro, só cartão."
+  ],
+  [
+   "Português 2",
+   1,
+   "Essa loja é barata e tem roupa bonita."
+  ],
+  [
+   "Português 2",
+   1,
+   "Eu prefiro a calça preta."
+  ],
+  [
+   "Português 2",
+   1,
+   "O vestido é comprido demais para mim."
+  ],
+  [
+   "Português 2",
+   2,
+   "O que você fez no fim de semana?"
+  ],
+  [
+   "Português 2",
+   2,
+   "Eu fui ao cinema com a minha namorada."
+  ],
+  [
+   "Português 2",
+   2,
+   "Ontem eu assisti um filme muito legal."
+  ],
+  [
+   "Português 2",
+   2,
+   "Sábado passado nós fomos a uma festa."
+  ],
+  [
+   "Português 2",
+   2,
+   "A festa foi ótima!"
+  ],
+  [
+   "Português 2",
+   2,
+   "Eu visitei os meus avós no domingo."
+  ],
+  [
+   "Português 2",
+   2,
+   "A gente passeou no parque."
+  ],
+  [
+   "Português 2",
+   2,
+   "Você saiu ontem à noite?"
+  ],
+  [
+   "Português 2",
+   2,
+   "Não, eu fiquei em casa porque estava cansado."
+  ],
+  [
+   "Português 2",
+   2,
+   "Eu tive uma semana muito difícil."
+  ],
+  [
+   "Português 2",
+   2,
+   "Ela viajou para São Paulo na semana passada."
+  ],
+  [
+   "Português 2",
+   2,
+   "Eu encontrei a minha amiga no centro."
+  ],
+  [
+   "Português 2",
+   2,
+   "O show foi muito divertido."
+  ],
+  [
+   "Português 2",
+   3,
+   "Como você está se sentindo?"
+  ],
+  [
+   "Português 2",
+   3,
+   "Eu estou com dor de cabeça."
+  ],
+  [
+   "Português 2",
+   3,
+   "Ela está doente, está com febre."
+  ],
+  [
+   "Português 2",
+   3,
+   "Eu acho que estou com gripe."
+  ],
+  [
+   "Português 2",
+   3,
+   "Onde dói? Dói a barriga."
+  ],
+  [
+   "Português 2",
+   3,
+   "Eu tenho uma consulta com o médico amanhã."
+  ],
+  [
+   "Português 2",
+   3,
+   "Você precisa tomar este remédio três vezes por dia."
+  ],
+  [
+   "Português 2",
+   3,
+   "Descansa e bebe muita água."
+  ],
+  [
+   "Português 2",
+   3,
+   "Estou com dor nas costas."
+  ],
+  [
+   "Português 2",
+   3,
+   "A minha irmã está grávida!"
+  ],
+  [
+   "Português 2",
+   3,
+   "Fiquei embaraçada porque esqueci o nome dele."
+  ],
+  [
+   "Português 2",
+   3,
+   "Estou com frio. Você tem um casaco?"
+  ],
+  [
+   "Português 2",
+   3,
+   "Melhoras! Espero que você melhore logo."
+  ],
+  [
+   "Português 2",
+   4,
+   "O que você faz? Eu sou engenheira."
+  ],
+  [
+   "Português 2",
+   4,
+   "Eu trabalho numa empresa de tecnologia."
+  ],
+  [
+   "Português 2",
+   4,
+   "O meu escritório fica no centro da cidade."
+  ],
+  [
+   "Português 2",
+   4,
+   "Hoje eu tenho uma reunião com o meu chefe."
+  ],
+  [
+   "Português 2",
+   4,
+   "Eu estou procurando emprego."
+  ],
+  [
+   "Português 2",
+   4,
+   "Amanhã eu tenho uma entrevista de trabalho."
+  ],
+  [
+   "Português 2",
+   4,
+   "O meu carro está na oficina."
+  ],
+  [
+   "Português 2",
+   4,
+   "Eu preciso de férias!"
+  ],
+  [
+   "Português 2",
+   4,
+   "Ela estuda direito na faculdade."
+  ],
+  [
+   "Português 2",
+   4,
+   "A aula de português é às sete da noite."
+  ],
+  [
+   "Português 2",
+   4,
+   "Na sexta-feira eu tenho prova."
+  ],
+  [
+   "Português 2",
+   4,
+   "Os meus colegas são muito legais."
+  ],
+  [
+   "Português 2",
+   4,
+   "Ele ganha um bom salário."
+  ],
+  [
+   "Português 2",
+   5,
+   "Eu vou fazer uma viagem para o Brasil em dezembro."
+  ],
+  [
+   "Português 2",
+   5,
+   "Você já comprou a passagem?"
+  ],
+  [
+   "Português 2",
+   5,
+   "O voo sai às dez da manhã."
+  ],
+  [
+   "Português 2",
+   5,
+   "Eu fiz uma reserva num hotel perto da praia."
+  ],
+  [
+   "Português 2",
+   5,
+   "O quarto tem vista para o mar."
+  ],
+  [
+   "Português 2",
+   5,
+   "A minha mala é muito pesada."
+  ],
+  [
+   "Português 2",
+   5,
+   "Não esquece o passaporte!"
+  ],
+  [
+   "Português 2",
+   5,
+   "Como está o tempo no Rio? Está fazendo muito calor."
+  ],
+  [
+   "Português 2",
+   5,
+   "Amanhã vai chover, leva o guarda-chuva."
+  ],
+  [
+   "Português 2",
+   5,
+   "Eu ainda não conheço Salvador."
+  ],
+  [
+   "Português 2",
+   5,
+   "Que comida esquisita! Nunca comi polvo."
+  ],
+  [
+   "Português 2",
+   5,
+   "O meu apelido é Lu, mas o meu sobrenome é Gómez."
+  ],
+  [
+   "Português 2",
+   5,
+   "Tem um rato na cozinha do hotel!"
+  ]
+ ]
+}

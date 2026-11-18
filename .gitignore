@@ -1,0 +1,22 @@
+# Secretos: nunca a GitHub
+.env
+.env.*
+!.env.example
+google.json
+credenciales/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node / frontend
+node_modules/
+dist/
+
+# Notas locales con contraseñas
+train.txt
+
+# Archivos descargados al probar la app
+/*.docx
+/*.zip
